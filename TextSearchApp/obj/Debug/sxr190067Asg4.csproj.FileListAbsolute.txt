@@ -1,0 +1,9 @@
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg4\sxr190067Asg4\sxr190067Asg4\bin\Debug\sxr190067Asg4.exe.config
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg4\sxr190067Asg4\sxr190067Asg4\bin\Debug\sxr190067Asg4.exe
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg4\sxr190067Asg4\sxr190067Asg4\bin\Debug\sxr190067Asg4.pdb
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg4\sxr190067Asg4\sxr190067Asg4\obj\Debug\sxr190067Asg4.csprojAssemblyReference.cache
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg4\sxr190067Asg4\sxr190067Asg4\obj\Debug\sxr190067Asg4.Form1.resources
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg4\sxr190067Asg4\sxr190067Asg4\obj\Debug\sxr190067Asg4.Properties.Resources.resources
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg4\sxr190067Asg4\sxr190067Asg4\obj\Debug\sxr190067Asg4.csproj.GenerateResource.cache
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg4\sxr190067Asg4\sxr190067Asg4\obj\Debug\sxr190067Asg4.exe
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg4\sxr190067Asg4\sxr190067Asg4\obj\Debug\sxr190067Asg4.pdb
